@@ -1,0 +1,64 @@
+{
+  "Mitems": [
+    {
+      "name": "Вода Агуша",
+      "artikul": "w1",
+      "price": "1000",
+      "proizvoditel": "Завод воды",
+      "categoriya": "Мебель",
+      "weight": "1.5",
+      "amount": "21",
+      "id": 1
+    },
+    {
+      "name": "Гарри Повар",
+      "artikul": "b1",
+      "price": "229",
+      "proizvoditel": "kora0081",
+      "categoriya": "Книги",
+      "weight": "1",
+      "amount": "3",
+      "id": 4
+    },
+    {
+      "name": "самсунг",
+      "artikul": "t1",
+      "price": "3",
+      "proizvoditel": "самсунг",
+      "categoriya": "Телефоны",
+      "weight": "1",
+      "amount": "23",
+      "id": 5
+    },
+    {
+      "name": "стол",
+      "artikul": "с1",
+      "price": "344",
+      "proizvoditel": "столовый завод",
+      "categoriya": "Мебель",
+      "weight": "7",
+      "amount": "4",
+      "id": 6
+    },
+    {
+      "name": "товар",
+      "artikul": "новый",
+      "price": "1",
+      "proizvoditel": "кар",
+      "categoriya": "Телефоны",
+      "weight": "134",
+      "amount": "1",
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "artikul": "ит",
+      "price": "4",
+      "proizvoditel": "это чо такое",
+      "categoriya": "Мебель",
+      "weight": "33",
+      "amount": "0",
+      "id": 8
+    }
+  ]
+}
